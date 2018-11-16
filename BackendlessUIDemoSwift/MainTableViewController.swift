@@ -4,8 +4,8 @@ import BackendlessUI
 
 class MainTableViewController: UITableViewController {
     
-    private let APP_ID = "751D3222-34C7-2619-FF11-4017F65BBC00"
-    private let API_KEY = "8722B6BB-6924-87E1-FFD9-53B8C1455200"
+    private let APP_ID = ""
+    private let API_KEY = ""
 
     private var functions = [String]()
     private let SIGN_UP = "Sign up"
